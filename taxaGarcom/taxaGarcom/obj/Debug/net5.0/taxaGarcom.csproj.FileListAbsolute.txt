@@ -1,0 +1,15 @@
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.exe
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.deps.json
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.dll
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\ref\taxaGarcom.dll
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\bin\Debug\net5.0\taxaGarcom.pdb
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.dll
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\ref\taxaGarcom.dll
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.pdb
+C:\Users\vinis\Documents\codigos c#\taxaGarcom\taxaGarcom\obj\Debug\net5.0\taxaGarcom.genruntimeconfig.cache

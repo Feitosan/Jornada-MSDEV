@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "taxaGarcom/1.0.0": {
+        "runtime": {
+          "taxaGarcom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "taxaGarcom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

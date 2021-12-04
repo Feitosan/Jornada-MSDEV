@@ -1,0 +1,15 @@
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.exe
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.deps.json
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.dll
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\ref\exProfessorSalvatore.dll
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\bin\Debug\net5.0\exProfessorSalvatore.pdb
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.dll
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\ref\exProfessorSalvatore.dll
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.pdb
+C:\Users\vinis\Documents\codigos c#\exProfessorSalvatore\exProfessorSalvatore\obj\Debug\net5.0\exProfessorSalvatore.genruntimeconfig.cache

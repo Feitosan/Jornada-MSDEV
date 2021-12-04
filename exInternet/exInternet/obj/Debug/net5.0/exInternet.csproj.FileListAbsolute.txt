@@ -1,0 +1,16 @@
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.exe
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.deps.json
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.dll
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\ref\exInternet.dll
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\bin\Debug\net5.0\exInternet.pdb
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.dll
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\ref\exInternet.dll
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.pdb
+C:\Users\vinis\Documents\codigos c#\exInternet\exInternet\obj\Debug\net5.0\exInternet.genruntimeconfig.cache

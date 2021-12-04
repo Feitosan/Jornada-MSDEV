@@ -1,0 +1,16 @@
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.exe
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.deps.json
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.dll
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\bin\Debug\net5.0\primeiro.pdb
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.dll
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.pdb
+C:\Users\vinis\Documents\codigos c#\Primeiro\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c83b967c-9d61-468f-81f3-90fb4aa533d1": {
+      "ProjectGuid": "c83b967c-9d61-468f-81f3-90fb4aa533d1",
+      "DisplayName": "Primeiro",
+      "ColorIndex": 0
+    },
+    "a21e8583-4f07-4c21-b15f-7ac3d10a3251": {
+      "ProjectGuid": "a21e8583-4f07-4c21-b15f-7ac3d10a3251",
+      "DisplayName": "primeiro",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

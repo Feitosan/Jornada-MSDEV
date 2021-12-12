@@ -1,0 +1,16 @@
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.exe
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.deps.json
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ref\ConsoleMVC.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.pdb
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ref\ConsoleMVC.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.pdb
+C:\Users\vinis\Documents\codigos c#\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.genruntimeconfig.cache

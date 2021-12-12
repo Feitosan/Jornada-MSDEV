@@ -1,0 +1,287 @@
+﻿++Solution 'ConsoleBarber' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ConsoleBarber.sln
+++ConsoleBarber
+i:{00000000-0000-0000-0000-000000000000}:ConsoleBarber
+++Dependencies
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:>10
+++Analyzers
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:analyzers
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Frameworks
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:frameworks
+++Microsoft.NETCore.App
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\microsoft.netcore.app
+++Imports
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:>90
+++Sdk.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.targets
+++bin
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\
+++Debug
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\
+++obj
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\
+++net5.0
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\
+++ConsoleBarber.csproj.nuget.dgspec.json
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\consolebarber.csproj.nuget.dgspec.json
+++ConsoleBarber.csproj.nuget.g.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\consolebarber.csproj.nuget.g.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\consolebarber.csproj.nuget.g.props
+++ConsoleBarber.csproj.nuget.g.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\consolebarber.csproj.nuget.g.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\consolebarber.csproj.nuget.g.targets
+++project.assets.json
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\project.assets.json
+++project.nuget.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\project.nuget.cache
+++Produto.cs
+i:{3b4b6758-86e1-42bf-adea-6765b3e7e49c}:C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\Produto.cs
+++produtoController.cs
+i:{03b961ef-1c5c-460c-9552-51a518dd934d}:C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\produtoController.cs
+++produtoView.cs
+i:{88dafda0-9ffd-4d62-b547-ff2317f3bbd4}:C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\produtoView.cs
+++Program.cs
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\program.cs
+++Microsoft.Common.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++ref
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\ref\
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\ref\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\apphost.exe
+++ConsoleBarber.AssemblyInfo.cs
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.assemblyinfo.cs
+++ConsoleBarber.AssemblyInfoInputs.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.assemblyinfoinputs.cache
+++ConsoleBarber.assets.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.assets.cache
+++ConsoleBarber.csproj.AssemblyReference.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.csproj.assemblyreference.cache
+++ConsoleBarber.csproj.CoreCompileInputs.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.csproj.corecompileinputs.cache
+++ConsoleBarber.csproj.FileListAbsolute.txt
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.csproj.filelistabsolute.txt
+++ConsoleBarber.dll
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.dll
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\ref\consolebarber.dll
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.dll
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\ref\consolebarber.dll
+++ConsoleBarber.GeneratedMSBuildEditorConfig.editorconfig
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.generatedmsbuildeditorconfig.editorconfig
+++ConsoleBarber.genruntimeconfig.cache
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.genruntimeconfig.cache
+++ConsoleBarber.pdb
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.pdb
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\obj\debug\net5.0\consolebarber.pdb
+++Microsoft.NuGet.ImportBefore.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++ConsoleBarber.deps.json
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.deps.json
+++ConsoleBarber.exe
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.exe
+++ConsoleBarber.runtimeconfig.dev.json
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.runtimeconfig.dev.json
+++ConsoleBarber.runtimeconfig.json
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\users\vinis\documents\codigos c#\consolebarber\consolebarber\bin\debug\net5.0\consolebarber.runtimeconfig.json
+++Microsoft.NuGet.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Docker.targets
+i:{1b791d99-1ecc-4b11-8a5e-6a8c51e3e236}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++NewFolder1
+++Model
+i:{00000000-0000-0000-0000-000000000000}:Model
+++Controller
+i:{00000000-0000-0000-0000-000000000000}:Controller
+++View
+i:{00000000-0000-0000-0000-000000000000}:View

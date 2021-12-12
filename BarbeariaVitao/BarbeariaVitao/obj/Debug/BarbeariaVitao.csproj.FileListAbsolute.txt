@@ -1,0 +1,11 @@
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\bin\Debug\BarbeariaVitao.exe.config
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\bin\Debug\BarbeariaVitao.exe
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\bin\Debug\BarbeariaVitao.pdb
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.Form1.resources
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.Properties.Resources.resources
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.csproj.GenerateResource.cache
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.exe
+C:\Users\vinis\Documents\codigos c#\BarbeariaVitao\BarbeariaVitao\obj\Debug\BarbeariaVitao.pdb

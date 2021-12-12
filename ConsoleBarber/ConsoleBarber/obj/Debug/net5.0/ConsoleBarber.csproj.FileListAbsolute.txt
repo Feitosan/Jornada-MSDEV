@@ -1,0 +1,16 @@
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.exe
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.deps.json
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ref\ConsoleBarber.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\bin\Debug\net5.0\ConsoleBarber.pdb
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ref\ConsoleBarber.dll
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.pdb
+C:\Users\vinis\Documents\codigos c#\ConsoleBarber\ConsoleBarber\obj\Debug\net5.0\ConsoleBarber.genruntimeconfig.cache

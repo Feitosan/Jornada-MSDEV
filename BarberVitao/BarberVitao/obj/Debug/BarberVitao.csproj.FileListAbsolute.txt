@@ -1,0 +1,12 @@
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\bin\Debug\BarberVitao.exe.config
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\bin\Debug\BarberVitao.exe
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\bin\Debug\BarberVitao.pdb
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.Form1.resources
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.Properties.Resources.resources
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.csproj.GenerateResource.cache
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.exe
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.pdb
+C:\Users\vinis\Documents\codigos c#\BarberVitao\BarberVitao\obj\Debug\BarberVitao.Form2.resources

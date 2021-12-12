@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b791d99-1ecc-4b11-8a5e-6a8c51e3e236": {
+      "ProjectGuid": "1b791d99-1ecc-4b11-8a5e-6a8c51e3e236",
+      "DisplayName": "ConsoleBarber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

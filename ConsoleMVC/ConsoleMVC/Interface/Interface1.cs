@@ -1,0 +1,18 @@
+﻿using ConsoleMVC.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleMVC.Interface
+{
+    internal interface Interface1
+    {
+
+        public string[] Login();
+              
+        public int delete(int codigo);
+
+    }
+}

@@ -12,7 +12,6 @@ namespace ConsoleMVC.Controller
     {
         ProdutoModel produto = new ProdutoModel();
         ProdutoView produtoview = new ProdutoView();
-        
 
         public bool LoginClass()
         {
@@ -22,6 +21,11 @@ namespace ConsoleMVC.Controller
         public void ListarProdutos()
         {
             produtoview.Listar(produto.Ler());
+        }
+
+        public void DeleteProduto()
+        {
+           produto.delete();
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using ConsoleMVC.Interface;
+using ConsoleMVC.View;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -16,8 +17,6 @@ namespace ConsoleMVC.Model
 
         public string username = "vitor";
         public string password = "1234";
-
-     
 
         private const string caminho = "Database/produto.csv";
 
@@ -60,12 +59,41 @@ namespace ConsoleMVC.Model
         }
 
 
-
+        // identificar o codigo do produto pra fazer a comparação
+        //ao identificar o codigo do produto, necessario identificar a linha daquele codigo
+        // 
       
-
-        public int delete(int codigo)
+        
+        public void delete()
         {
-            return codigo;
+            int codigoProduto = new ProdutoView().RecebeCodigoProduto();
+            //var file = new List<string>(System.IO.File.ReadAllLines("C:\\path"));
+            List<string> linhas = new List<string>(File.ReadAllLines(caminho));
+            int i = 1; // contador de linhas
+            bool deletou = false;
+            foreach (string line in linhas.ToList())
+            {
+               ProdutoModel ProdutoCerto = new ProdutoModel();
+                string[] vs = line.Split(';');
+                ProdutoCerto.codigo = int.Parse(vs[0]);
+                if(codigoProduto == ProdutoCerto.codigo)
+                {
+                    linhas.RemoveAt(i-1);
+                    File.WriteAllLines(caminho, linhas.ToArray());
+                    deletou = true;
+                    //Console.WriteLine("Produto deletado com Sucesso!!");
+                }
+                i++;
+            }
+            if (deletou)
+            {
+                Console.WriteLine("Produto deletado com Sucesso!!");
+            }
+            else
+            {
+                Console.WriteLine("Codigo invalido!!");
+            }
+
         }
 
         public LoginModel Login()

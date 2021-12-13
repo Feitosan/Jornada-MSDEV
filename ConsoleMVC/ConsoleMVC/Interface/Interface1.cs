@@ -12,7 +12,7 @@ namespace ConsoleMVC.Interface
 
         public LoginModel Login();
               
-        public int delete(int codigo);
+        public void delete();
 
     }
 }

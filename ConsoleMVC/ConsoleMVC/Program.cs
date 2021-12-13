@@ -13,8 +13,23 @@ namespace ConsoleMVC
             ProdutoController logincontroller = new ProdutoController();
             ProdutoView loginVerifica = new ProdutoView();
 
-            logincontroller.loginclass();
-            //mostrarProdutos.ListarProdutos();
+            if (logincontroller.LoginClass())
+            {
+                
+                Console.WriteLine("1-Listagem de Produtos");
+                Console.WriteLine("digite o numero para acessar a função: ");
+                string num =Console.ReadLine();
+                
+                switch (num){
+                    case "1":
+                        mostrarProdutos.ListarProdutos();
+                        break;
+
+                }
+                
+            }
+            
+            
     
         }
     }

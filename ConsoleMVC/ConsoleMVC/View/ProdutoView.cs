@@ -32,7 +32,7 @@ namespace ConsoleMVC.View
         }
 
       
-        public void Logincerto(String[] ret)
+        public bool Logincerto(LoginModel ret)
         {
             string[] logins = new string[2];
             Console.WriteLine("Informe Seu Login: ");
@@ -40,15 +40,15 @@ namespace ConsoleMVC.View
             Console.WriteLine("Informe Sua Senha: ");
             logins[1] = Console.ReadLine();
 
-            if (logins[0] == ret[0] && logins[1] == ret[1])
+            if (logins[0] == ret.Username && logins[1] == ret.Password)
             {
                 Console.WriteLine("\nBem Vindo ao Sistema!!");
-                
+                return true;
             }
             else
             {
                 Console.WriteLine("\nLogin ou Senha Incorretos!!");
-                
+                return false;
             }
             
         }

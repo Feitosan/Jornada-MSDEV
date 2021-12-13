@@ -68,12 +68,10 @@ namespace ConsoleMVC.Model
             return codigo;
         }
 
-        public string[] Login()
+        public LoginModel Login()
         {
-            string[] ret = new string[2];
-            ret[0] = username;
-            ret[1] = password;
-            return ret;
+            LoginModel loginModel = new LoginModel {Username = username, Password = password };
+            return loginModel;
         }
 
     }

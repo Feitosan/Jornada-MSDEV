@@ -14,9 +14,9 @@ namespace ConsoleMVC.Controller
         ProdutoView produtoview = new ProdutoView();
         
 
-        public void loginclass()
+        public bool LoginClass()
         {
-            produtoview.Logincerto(produto.Login());
+           return produtoview.Logincerto(produto.Login());
         }
 
         public void ListarProdutos()

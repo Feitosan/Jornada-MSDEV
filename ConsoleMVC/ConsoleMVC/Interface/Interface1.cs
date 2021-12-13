@@ -10,7 +10,7 @@ namespace ConsoleMVC.Interface
     internal interface Interface1
     {
 
-        public string[] Login();
+        public LoginModel Login();
               
         public int delete(int codigo);
 

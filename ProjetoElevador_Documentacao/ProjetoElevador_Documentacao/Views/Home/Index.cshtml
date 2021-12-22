@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome
+        1-O codigo é iniciado executando sempre o método inicializar() e o usuario informa quantos andares vai ter o prédio(desconsiderando o térreo)
+        e a capacidade de pessoas no elevador.
+        2-antes de entrar no menu é declarado uma variavel continuar do tipo booleano, para controlar a saida do programa.
+        3-o programa entra em um menu feito com a estrutura de repetição do-while, onde o usuario vai definir qual sera a ação no elevador.
+        4-o programa entra no menu e informa as opçoes abaixo.
+
+        5 Primeira opção "Entrar" - então caso o usuario queira adicionar uma pessoa no elevador o programa ja sabe qual vai ser o limite de pessoas dentro 
+        desse elevador e não vai deixar que ultrapasse o limite
+
+        6 Segunda opção "Sair" - caso o usuario queira tirar alguem do elevador o programa ja vai saber que quando o numero de pessoas for igual a 0 ele mostra que o elevador
+        esta vazio e consequentemente não tira ninguem.
+
+        7 Terceira opção "Subir" - caso o usuario queira subir um andar no elevador o programa ja sabe quantos andares tem o prédio, assim quando chegar no ultimo andar e o usuario
+        tentar subir novamente, vai mostrar uma mensagem para o usuario informando que o elevador ja esta no ultimo andar e consequentemente não ira subir.
+        
+        8 Quarta opção "Descer" - caso o usuario queira descer um andar no elevador o programa ja sabe que quando o elevador chegar no andar 0 ja é o térreo, então se o usuario 
+        tentar descer novamente vai mostrar uma mensagem de que o elevador ja esta no térreo e consequentemente não ira descer.
+        
+        9 Quinta opção "Sair do Programa!!" - caso o usuario queria sair do programa é imposto para a variavel continuar o valor false,como o do-while fecha caso
+        a condição for false,garantimos que a estrutura de repetição execute pelo menos uma unica vez e que o menu sera fechado.
+  
+        10-caso o usuario digite uma opção invalida, o swtich reconhece como default e mostra uma mensagem informando que a opção não é valida.
+        
+    </h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

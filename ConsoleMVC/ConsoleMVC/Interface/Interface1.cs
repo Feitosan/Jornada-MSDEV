@@ -14,5 +14,9 @@ namespace ConsoleMVC.Interface
               
         public void delete();
 
+        public void update();
+
+        public void add();
+
     }
 }

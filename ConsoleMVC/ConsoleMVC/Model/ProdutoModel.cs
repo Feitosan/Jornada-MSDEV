@@ -102,5 +102,14 @@ namespace ConsoleMVC.Model
             return loginModel;
         }
 
+        public void update()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void add()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -55,7 +55,7 @@ namespace ConsoleMVC.View
 
         public int RecebeCodigoProduto()
         {
-            Console.WriteLine("Digite o codigo do produto a ser deletado: ");
+            Console.WriteLine("\nDigite o codigo do produto a ser deletado: ");
             int codProduto = int.Parse(Console.ReadLine());
             return codProduto;
 

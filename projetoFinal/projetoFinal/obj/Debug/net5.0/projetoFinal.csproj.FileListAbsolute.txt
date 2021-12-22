@@ -1,0 +1,16 @@
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.exe
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.deps.json
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.runtimeconfig.json
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.runtimeconfig.dev.json
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.dll
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\ref\projetoFinal.dll
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\bin\Debug\net5.0\projetoFinal.pdb
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.csproj.AssemblyReference.cache
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.AssemblyInfoInputs.cache
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.AssemblyInfo.cs
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.dll
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\ref\projetoFinal.dll
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.pdb
+C:\Users\vinis\Documents\codigos c#\projetoFinal\projetoFinal\obj\Debug\net5.0\projetoFinal.genruntimeconfig.cache
